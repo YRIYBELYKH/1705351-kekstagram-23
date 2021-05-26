@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Юрий Белых](https://up.htmlacademy.ru/javascript/23/user/1705351).
-* Наставник: `Неизвестно`.
+- Студент: [Юрий Белых](https://up.htmlacademy.ru/javascript/23/user/1705351).
+- Наставник: [Константин Мамаев](https://htmlacademy.ru/profile/meison).
 
 ---
 
